@@ -1,0 +1,8 @@
+facebook_username = ""
+facebook_password = ""
+facebook_group_url = ""
+comment = ""
+section = ""
+google_email = ""
+google_password = ""
+meeting_url = ""
