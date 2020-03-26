@@ -18,7 +18,7 @@ Edit the config.py file and add your credentials.
 
 ## Additional Notes
 
-You can setup a cron job to run the script automatically according to your timetable.
+You can setup a cron job to run the script automatically according to your timetable. This script works on mobile version of Facebook so please use https://m.facebook.com instead of https://www.facebook.com
 
 ## Built With
 
